@@ -52,7 +52,7 @@ function handleResetGame(){
 
 // console.log(adib.car.workingCondition);
 
-
+console.log("commit changes")
 
 /*
 git add -A

@@ -51,3 +51,12 @@ function handleResetGame(){
 // }, friend: "meisam"};
 
 // console.log(adib.car.workingCondition);
+
+
+
+/*
+git add -A
+git commit -m"added a new button"
+git push origin master
+
+*/
